@@ -1,0 +1,1 @@
+This file includes the implementation of a Sales Insights Analysis project using SQL and Tableau. SQL is used for data extraction, cleaning, and aggregation, while Tableau is used to create interactive dashboards. The analysis helps uncover sales trends, performance across regions, and important KPIs that assist business and product teams in making informed decisions.
